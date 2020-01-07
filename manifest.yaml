@@ -8,8 +8,3 @@
   folder: R-minimal
   name: Basic R Project
   description: The simplest R-based renku project with a basic directory structure and necessary supporting files.
--
-  folder: python-datascience
-  name: Python datascience project template
-  description: Generic datascience project.
-  
